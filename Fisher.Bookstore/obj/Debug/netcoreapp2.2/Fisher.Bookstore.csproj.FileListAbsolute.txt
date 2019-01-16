@@ -1,0 +1,14 @@
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.deps.json
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.runtimeconfig.json
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.runtimeconfig.dev.json
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.dll
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/bin/Debug/netcoreapp2.2/Fisher.Bookstore.pdb
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.csprojAssemblyReference.cache
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.csproj.CoreCompileInputs.cache
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorAssemblyInfo.cache
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorAssemblyInfo.cs
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.AssemblyInfoInputs.cache
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.AssemblyInfo.cs
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.RazorTargetAssemblyInfo.cache
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.dll
+/Users/chadthomas/Dojo/amis/fisher-bookstore-mvc/Fisher.Bookstore/obj/Debug/netcoreapp2.2/Fisher.Bookstore.pdb
